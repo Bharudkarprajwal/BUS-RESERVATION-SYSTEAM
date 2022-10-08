@@ -150,7 +150,7 @@ void a::allotment()
 
     {
 
-      cout<<"Enter correct bus no.\n";
+      cout<<"Enter correct bus no.";
 
       goto top;
 
